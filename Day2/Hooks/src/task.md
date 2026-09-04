@@ -1,0 +1,1 @@
+Ek naya component banao jisme ek "Like" button ho. Pehle button par 🤍 Like (0) dikhe. Jab user click kare, toh wo ❤️ Liked (1) ban jaye, aur dobara click kare toh wapas 🤍 Like (0) ho jaye.
